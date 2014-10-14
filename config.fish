@@ -9,3 +9,5 @@ idempotent_add_to_path /opt/leiningen
 idempotent_add_to_path $HOME/scratch/tools/go/bin
 idempotent_add_to_path $GOPATH/bin
 idempotent_add_to_path $HOME/scratch/tools/pebble-dev/PebbleSDK-2.0.1/bin
+
+test -s /Users/dvberkel/.nvm-fish/nvm.fish; and source /Users/dvberkel/.nvm-fish/nvm.fish
